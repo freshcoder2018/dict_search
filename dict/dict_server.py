@@ -167,19 +167,6 @@ def do_hist(c, name, db):
     c.send(b'##')
 
 
-
-
-
-
-
-
-
-
-
-
-
-
-
 if __name__ == '__main__':
     main()
 
