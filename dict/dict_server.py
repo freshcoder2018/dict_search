@@ -3,7 +3,7 @@ name: freshcoder2018
 date: 2018/09/28
 email: lindascut@qq.com
 module: pymysql
-This is a dict search project
+This is a dict search project exercise
 '''
 
 from socket import *
